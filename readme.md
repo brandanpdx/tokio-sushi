@@ -1,11 +1,10 @@
 # Tokio Sushi
 
-## Epicodus Independent Capstone Project
-## By: Brandan Sayarath
+## Brandan Sayarath
 
 ## Project Concept and Proposal
 
-Tokio is a fictional sushi restaurant in New York City.  To stay consistent with the high-end theme of the restaurant, I will build out a very modern user interface.   
+Tokio is a fictional sushi restaurant in New York City.  To stay true to the high-end theme of the restaurant, I will build out a very modern user interface.   
 
 Since this project only has a front-end design, I will be putting a lot of time into the wireframing and planning of the site.  
 
@@ -26,6 +25,13 @@ Since this project only has a front-end design, I will be putting a lot of time 
 
 
 ## Technologies Used
+* HTML
+* CSS
+* SASS
+* Git
+* Figma
+* VS Code
+
 
 
 
