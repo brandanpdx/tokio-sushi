@@ -1,0 +1,23 @@
+
+.header {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(#000, .4), rgba(rgb(36, 36, 36), .2)), url(/img/main.jpeg) no-repeat;
+  background-size: cover;
+
+  .brand {
+    display: flex;
+    align-items: center;
+    @include centering(15%);
+
+    @media(max-width: 500px) {
+      @include centering(12%);
+    }
+
+    position: absolute;
+    top: 65%;
+    left: 50%;
+  }
+
+}

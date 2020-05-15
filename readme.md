@@ -28,7 +28,7 @@ A UI sketch is the absolute best way to make sure that you’ve worked through a
 ![RoughSketch](/wireframe/roughsketch.png)
 
 ## Low-Fidelity Wireframe
-Medium fidelity wireframes are created in a monochrome or grayscale palette. While medium fidelity wireframes can still be created manually, using digital tools to create more detailed and realistic UI components can also be meaningful for understanding how some aesthetic details could merge with essential functionalities.
+Low fidelity wireframes are created in a monochrome or grayscale palette. While low fidelity wireframes can still be created manually, using digital tools to create more detailed and realistic UI components can also be meaningful for understanding how some aesthetic details could merge with essential functionalities.
 
 ## High-Fidelity Wireframe
 

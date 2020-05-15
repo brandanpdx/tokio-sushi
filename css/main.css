@@ -1,0 +1,26 @@
+.header {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(36, 36, 36, 0.2)), url(/img/main.jpeg) no-repeat;
+  background-size: cover; }
+  .header .brand {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 65%;
+    left: 50%; }
+    @media (max-width: 500px) {
+      .header .brand {
+        position: absolute;
+        top: 12%;
+        left: 50%;
+        transform: translate(-50%, -50%); } }
+
+.main-name {
+  color: white;
+  font-size: 4em; }
