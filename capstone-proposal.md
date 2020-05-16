@@ -1,7 +1,7 @@
 # Project: Tokio Sushi
 
 ## Project's Purpose or Goal:
-* Tokio is a fictional sushi restaurant in New York City.  To stay consistent with the high-end theme of the restaurant, I will build out a very modern user interface.   
+* Tokio is a fictional sushi restaurant in New York City.  To stay consistent with the high-end theme of the restaurant, I will build out a very modern user interface.  Futher details about the project proposal can be found in its own markdown file [here](https://github.com/brandanpdx/tokio-sushi/blob/master/capstone-proposal.md).
 
 ## List the absolute minimum features the project requires to meet this purpose or goal:
 
