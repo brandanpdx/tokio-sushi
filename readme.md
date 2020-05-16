@@ -4,7 +4,7 @@
 
 # Project Concept and Proposal
 
-Tokio is a fictional sushi restaurant in New York City.  To stay true to the high-end theme of the restaurant, I will build out a very modern user interface.   
+Tokio is a fictional sushi restaurant in New York City.  To stay true to the high-end theme of the restaurant, I will build out a very modern user interface. Futher details about the project proposal can be found in its own markdown file [here](https://github.com/brandanpdx/tokio-sushi/blob/master/capstone-proposal.md).
 
 # Wireframing 
 Wireframing is most effective at the beginning of every design process, when the main objective is creating the product’s structure.
