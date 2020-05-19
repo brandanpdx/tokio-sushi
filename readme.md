@@ -28,8 +28,7 @@ High fidelity wireframes take more effort to create, but they are effective in t
 
 The core difference from the other types of wireframes is that high fidelity wireframes are built in with color and present screens that are closer to how they would appear in final version of the software.
 
-
-
+![HifiWireframe](/wireframe/hifi-wireframe.png)
 
 
 ## Technologies Used
