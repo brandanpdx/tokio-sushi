@@ -1,3 +1,5 @@
+$font-logo: 'Petrona', serif;
+
 @mixin centering($topValue) {
     position: absolute;
     top: $topValue;

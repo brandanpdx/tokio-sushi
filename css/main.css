@@ -23,4 +23,7 @@
 
 .main-name {
   color: white;
-  font-size: 4em; }
+  font-size: 4em;
+  font-family: "Petrona", serif;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+  font-weight: 100; }
