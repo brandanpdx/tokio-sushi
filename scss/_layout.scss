@@ -7,7 +7,6 @@
 
   .brand {
     display: flex;
-    align-items: center;
     @include centering(15%);
 
     @media(max-width: 500px) {
