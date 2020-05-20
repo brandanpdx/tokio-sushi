@@ -17,5 +17,40 @@
     top: 65%;
     left: 50%;
   }
+}
 
+.about-us {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+
+  &-left {
+    img {
+      padding: 20px;
+    }
+  }
+
+  &-right {
+    width: 60%;
+
+    .main-heading {
+      text-align: left;
+      margin-bottom: 40px;
+      font-size: 72px;
+    }
+
+    .description {
+      font-size: 20px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .main-btn {
+      position: relative;
+      margin-top: 40px;
+      left: 75%;
+
+    }
+  }
 }

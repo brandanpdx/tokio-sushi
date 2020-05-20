@@ -27,6 +27,28 @@ body {
         left: 50%;
         transform: translate(-50%, -50%); } }
 
+.about-us {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif; }
+  .about-us-left img {
+    padding: 20px; }
+  .about-us-right {
+    width: 60%; }
+    .about-us-right .main-heading {
+      text-align: left;
+      margin-bottom: 40px;
+      font-size: 72px; }
+    .about-us-right .description {
+      font-size: 20px;
+      font-family: 'Open Sans', sans-serif; }
+    .about-us-right .main-btn {
+      position: relative;
+      margin-top: 40px;
+      left: 75%; }
+
 .main-name {
   color: white;
   font-size: 4em;
