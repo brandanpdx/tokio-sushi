@@ -2,7 +2,7 @@
 #### By: Brandan Sayarath
 #### May 2020
 
-# Tokio Sushi - Capstone Presentation 
+# Tokio Sushi - Capstone Presentation Link
 
 [![Capstone Presentation](https://i.imgur.com/RPXSXu1.png)](https://www.youtube.com/watch?v=sq_Y11qcFlc "Capstone Presentation Link")
 
