@@ -2,6 +2,10 @@
 #### By: Brandan Sayarath
 #### May 2020
 
+# Tokio Sushi - Capstone Presentation 
+
+[![Capstone Presentation](https://i.imgur.com/RPXSXu1.png)](https://www.youtube.com/watch?v=sq_Y11qcFlc "Capstone Presentation Link")
+
 # Project Concept and Proposal
 
 Tokio is a fictional sushi restaurant in New York City.  To stay true to the high-end theme of the restaurant, I will build out a very modern user interface. Futher details about the project proposal can be found in its own markdown file [here](https://github.com/brandanpdx/tokio-sushi/blob/master/capstone-proposal.md).
